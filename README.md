@@ -1,5 +1,5 @@
 <img src="docs/images/wawa.jpg" width="100" height="100"/>
-[your-UML-diagram-name](https://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/DeviPriyaRajeswariKotagiri/Testing/master/docs/puml/class-diagram-01.puml)
+
 
 [![Build Status](https://travis-ci.org/openmrs/openmrs-core.svg?branch=master)](https://google.com/) [![Coverage Status](https://coveralls.io/repos/github/openmrs/openmrs-core/badge.svg?branch=master)](https://google.com/) [![SonarQube Badge](https://api.codacy.com/project/badge/Grade/a51303ee46c34775a7c31c8d6016da6b)](https://codefresh.io/steps/)
 
@@ -21,6 +21,7 @@
 12. [References](#12.-References)
 
 ## 1. Introduction
+![your-UML-diagram-name](https://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/DeviPriyaRajeswariKotagiri/Testing/master/docs/puml/class-diagram-01.puml)
 
 There are [three different types of microservices defined for Wawa](https://wawaappdev.atlassian.net/wiki/spaces/ENTERPRISE/pages/550633706/ABB+-+Microservices). This is a reference implementation of [Wawa Architecture defined business microservice](https://wawaappdev.atlassian.net/wiki/spaces/ENTERPRISE/pages/586843021/ABB+-+Business+Service) to achieve standardization and reduce duplication of effort.
 
