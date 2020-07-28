@@ -311,3 +311,4 @@ You can view logs for a Microservice using Kuberenetes,Amazon S3,Splunk,WinScp e
 |Deploying a Microservice to Docker Container| https://www.javainuse.com/devOps/docker/docker-jar |   |
 |Deployment Status on  Codefresh| https://codefresh.io/docs/docs/getting-started/deployment-to-kubernetes-quick-start-guide/ |     |
 |ABB-Microservices| https://wawaappdev.atlassian.net/wiki/spaces/ENTERPRISE/pages/550633706/ABB+-+Microservices|    |
+|SBB - JPA reference implementation for Postgres |https://wawaappdev.atlassian.net/wiki/spaces/EE/pages/804096109/SBB+-+JPA+reference+implementation+for+Postgres|    |
